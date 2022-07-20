@@ -45,4 +45,4 @@ and can be visualized with Thermo Xcalibur Qual Browser.
 
 
 ## Cite
-**[Zhu, H., Li, Q., Liao, T. et al. Metabolomic profiling of single enlarged lysosomes. Nat Methods 18, 788–798 (2021).](https://www.nature.com/articles/s41592-021-01182-8)**
+**Zhu, H., Li, Q., Liao, T. et al. Metabolomic profiling of single enlarged lysosomes. Nat Methods 18, 788–798 (2021). [https://doi.org/10.1038/s41592-021-01182-8](https://www.nature.com/articles/s41592-021-01182-8)**
